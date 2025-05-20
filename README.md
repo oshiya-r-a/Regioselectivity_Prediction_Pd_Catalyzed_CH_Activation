@@ -1,5 +1,5 @@
 # Machine Learning Predicts Regioselectivity in Pd-Catalyzed Directing Group-Assisted C–H Activation
-![Image](https://github.com/user-attachments/assets/d202c472-c4a7-4ba2-a263-218bcb71ff2e)
+![Image](https://github.com/user-attachments/assets/14c958e7-d7dd-4835-93fc-b1e34e2248f7)
 
 
 # Quick Links
