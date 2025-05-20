@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: omp-predictor
+Version: 1.0.0
+Summary: Predict regioselectivity in Pd-catalyzed C-H activation using machine learning.
+Author: Ayan Datta, Arko Mohari, Oshiya RA
+Author-email: spad@iacs.res.in
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+Requires-Dist: numpy>=1.26.4
+Requires-Dist: scikit-learn>=1.6.1
+Requires-Dist: rdkit>=2025.3.2
+Requires-Dist: joblib>=1.4.2
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

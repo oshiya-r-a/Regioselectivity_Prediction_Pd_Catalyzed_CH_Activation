@@ -1,0 +1,2 @@
+[console_scripts]
+omp = omp_predictor.omp:main
